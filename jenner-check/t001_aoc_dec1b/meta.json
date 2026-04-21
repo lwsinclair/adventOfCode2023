@@ -1,0 +1,9 @@
+{
+  "bundle": "t001_aoc_dec1b",
+  "source_file": "dec1/dec1b.sas",
+  "source_blob_sha": "4e1abe02ad9933a553fa1ecc68ed48b4f92c3e55",
+  "source_commit": "7298ea4bf041cc269e01313004a4d449e2a88cc3",
+  "tier": "real_data",
+  "data_prep": "none",
+  "notes": "AoC 2023 day 1 part b: parse first/last digit (including spelled-out one..nine) per line, sum. Uses inline DATALINES of the author's puzzle input (1000 lines), so it is fully self-contained."
+}
